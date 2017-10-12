@@ -1,4 +1,3 @@
-(_,_)
 class Regalos{
 	var destinatarios  
 	var lugar = 1
